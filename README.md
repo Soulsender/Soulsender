@@ -15,5 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 </a>
 <!-- This is for the content-written -->
-*template courtesy of my friend @itsjustshepherd*
+
+<p align="center">
+<p>template courtesy of my friend <a href="https://github.com/itsjustshepherd">@itsjustshepherd
 </body>
