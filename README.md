@@ -6,7 +6,7 @@
 <p align="center">
   <p>Hi, my name is Soulsender. I'm a student in Canada learning about everything from python, to server administration, to web hacking. Linux is a passion of mine, and I take my operational security very seriously. You can learn more about me on <a href="https://soulsender.github.io">soulsender.github.io</a>!
 
-I'm a developer Cryptex - the Cryptography toolkit, as well as the lead developer for the Earth Invader discord bot which is a extension of the Cryptex program, using discord as a sort of "Command Line Interface".
+I'm a developer on Cryptex - the Cryptography toolkit, as well as the lead developer for the Earth Invader discord bot which is a extension of the Cryptex program, using discord as a sort of "Command Line Interface".
 
 <p align="center">
 <!-- This is for the fire-streak -->
