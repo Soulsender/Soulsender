@@ -2,7 +2,7 @@
   
 <body>
   
-### **Introduction**
+### **Who am I?**
 <p align="center">
   <p>Hi, my name is Soulsender. I'm a student in Canada learning about everything from python, to server administration, to web hacking. Linux is a passion of mine, and I take my operational security very seriously. You can learn more about me on <a href="https://soulsender.github.io">soulsender.github.io</a>!
 
@@ -17,3 +17,7 @@ I'm a developer on Cryptex - the Cryptography toolkit, as well as the lead devel
 <img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 </a>
 
+### **Things I'm currently working on & planning on working on.**
+ - [Earth Invader Discord Bot](https://github.com/CryptexProject/Earth-Invader)
+ - Learning Powershell
+ - Writing a guide to anonymity on [soulsender.me](https://soulsender.me)
