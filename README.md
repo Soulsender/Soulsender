@@ -18,6 +18,6 @@ I'm a developer on Cryptex - the Cryptography toolkit, as well as the lead devel
 </a>
 
 ### **Things I'm currently working on & planning on working on.**
- - [Earth Invader Discord Bot](https://github.com/CryptexProject/Earth-Invader)
+ - [Codex Discord Bot](https://github.com/CryptexProject/Earth-Invader)
  - Learning Powershell
  - Writing a guide to anonymity on [soulsender.me](https://soulsender.me)
