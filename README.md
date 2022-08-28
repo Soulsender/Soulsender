@@ -17,7 +17,9 @@ I'm a developer on Cryptex - the Cryptography toolkit, as well as the lead devel
 <img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 </a>
 
-### **Things I'm currently working on & planning on working on.**
- - [Codex Discord Bot](https://github.com/CryptexProject/Earth-Invader)
- - Learning Powershell
- - Writing a guide to anonymity on [soulsender.me](https://soulsender.me)
+### Projects
+See all of my projects on my [website.](https://soulsender.github.io)
+
+ - [Codex](https://github.com/CosmodiumCS/Codex-Project)
+ - [Codex Bot](https://github.com/Soulsender/Earth-Invader)
+
