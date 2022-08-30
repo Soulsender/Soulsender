@@ -20,6 +20,6 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 ### Projects
 See all of my projects on my [website.](https://soulsender.github.io)
 
- - [Codex](https://github.com/CosmodiumCS/SkeletonKey)
- - [Codex Bot](https://github.com/Soulsender/Earth-Invader)
+ - [SkeletonKey](https://github.com/CosmodiumCS/SkeletonKey)
+ - [Earth Invader](https://github.com/Soulsender/Earth-Invader)
 
