@@ -10,7 +10,7 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 
 <p align="center">
 <!-- This is for the fire-streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Soulsender&theme=dark&currStreakNum=CC6818&fire=CC2424&currStreakLabel=888888&dates=FFFFFF&background=000000&ring=FFFFFF&stroke=DD2727&sideNums=FFFFFF&sideLabels=888888&border=FFFFFF">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Soulsender&theme=dark&currStreakNum=650BEF&fire=650BEF&currStreakLabel=888888&dates=FFFFFF&background=000000&ring=FFFFFF&stroke=DD2727&sideNums=FFFFFF&sideLabels=888888&border=FFFFFF">
 </a>
 <!-- This is for the stats -->
 <p align="center">
