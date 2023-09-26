@@ -19,3 +19,5 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 
 ### Holopin Badges
 [![@soulsender's Holopin board](https://holopin.me/soulsender)](https://holopin.io/@soulsender)
+
+## Proud Contributor of Hacktoberfest 2023 & 2022
