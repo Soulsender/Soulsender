@@ -21,3 +21,7 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 [![@soulsender's Holopin board](https://holopin.me/soulsender)](https://holopin.io/@soulsender)
 
 ## Proud Contributor of Hacktoberfest 2023 & 2022
+
+## Maintainer of:
+- [Resources Repository](https://github.com/CosmodiumCS/resources)
+- [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader)
