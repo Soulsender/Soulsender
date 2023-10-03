@@ -20,7 +20,8 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 ### Holopin Badges
 [![@soulsender's Holopin board](https://holopin.me/soulsender)](https://holopin.io/@soulsender)
 
-## Proud Contributor of Hacktoberfest 2023 & 2022
+## Proud Host of CosmodiumCS Hacktoberfest 2023 & 2022
+I've managed the annual hacktoberfest event in the CosmodiumCS community.
 
 ## Maintainer of:
 - [Resources Repository](https://github.com/CosmodiumCS/resources)
