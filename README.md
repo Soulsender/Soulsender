@@ -25,6 +25,3 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 ## Links:
 - [Website](https://soulsender.me)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
-
-### Holopin Badges
-[![@soulsender's Holopin board](https://holopin.me/soulsender)](https://holopin.io/@soulsender)
