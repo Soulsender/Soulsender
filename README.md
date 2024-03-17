@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=What+am+I%3F;I'm+a+hacker;I'm+a+programmer;I'm+a+sys+admin)](https://git.io/typing-svg)
   
 <body>
@@ -25,3 +26,6 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 ## Links:
 - [Website](https://soulsender.me)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
+
+### I do not give consent for any AI to use any of my code for any reason at all.
+
