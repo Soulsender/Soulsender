@@ -4,10 +4,13 @@
 <body>
   
 ### **Who am I?**
-<p align="center">
-  <p>Hi, my name is Soulsender. I'm a student in Canada learning about everything from python, to server administration, to web hacking. Linux is a passion of mine, and I take my operational security very seriously. You can learn more about me on <a href="https://soulsender.github.io">soulsender.me</a>!
+Hiya! My name is Soul, I’m a student, hacker, gamer, music producer, video editor, and cyberpunk enthusist :)
 
-I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead developer for the Earth Invader discord bot which is a extension of the SkeletonKey program, using discord as a sort of Command Line Interface.
+I have a couple different certifcations, my most proud one being the CCNA.
+
+Turns out I know what I am doing *sometimes* :3
+
+Be sure to check out my github for projects I’ve done, or my blog on my [website](https://soulsender.me) for some more detailed writeups!
 
 <p align="center">
 <!-- This is for the fire-streak -->
@@ -22,6 +25,7 @@ I'm a developer on SkeletonKey - the Cryptography toolkit, as well as the lead d
 - [Resources Repository](https://github.com/CosmodiumCS/resources)
 - [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader)
 - [Frong Bot](https://github.com/Soulsender/frong-bot)
+- [Jellyfish Flipper Zero MomentumFW Asset Pack](https://github.com/Soulsender/flipper-custom)
 
 ## Links:
 - [Website](https://soulsender.me)
