@@ -22,10 +22,11 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 </a>
 
 ## Maintainer of:
-- [Resources Repository](https://github.com/CosmodiumCS/resources)
-- [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader)
+- [Notes](https://github.com/Soulsender/Notes)
 - [Frong Bot](https://github.com/Soulsender/frong-bot)
 - [Jellyfish Flipper Zero MomentumFW Asset Pack](https://github.com/Soulsender/flipper-custom)
+- [Resources Repository](https://github.com/CosmodiumCS/resources)
+- [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader)
 
 ## Links:
 - [Website](https://soulsender.me)
