@@ -22,7 +22,7 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 </a>
 
 ## Maintainer of:
-- [Notes](https://github.com/Soulsender/Notes)
+- [Notes](https://notes.soulsender.me)
 - [Frong Bot](https://github.com/Soulsender/frong-bot)
 - [Jellyfish Flipper Zero MomentumFW Asset Pack](https://github.com/Soulsender/flipper-custom)
 - [Resources Repository](https://github.com/CosmodiumCS/resources)
