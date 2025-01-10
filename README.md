@@ -32,7 +32,7 @@ Actively being used in projects:
 
 ## Maintainer of:
 - [Notes](https://notes.soulsender.me)
-- [RustKey]([https://github.com/Soulsender/teliosauto](https://github.com/Soulsender/rust-key))
+- [RustKey](https://github.com/Soulsender/rust-key)
 - [Frong Bot](https://github.com/Soulsender/frong-bot)
 - [Jellyfish Flipper Zero MomentumFW Asset Pack](https://github.com/Soulsender/flipper-custom)
 - [Resources Repository](https://github.com/CosmodiumCS/resources)
