@@ -20,6 +20,7 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 <p align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=650BEF&text_color=888888FF&bg_color=000000"> -->
 </a>
+
 Actively being used in projects:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
