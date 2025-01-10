@@ -21,6 +21,7 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=650BEF&text_color=888888FF&bg_color=000000"> -->
 </a>
 Actively being used in projects:
+
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
