@@ -18,7 +18,7 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 </a>
 <!-- This is for the stats -->
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=650BEF&text_color=888888FF&bg_color=000000"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Soulsender&count_private=true&show_icons=true&title_color=ffffff&icon_color=650BEF&text_color=888888FF&bg_color=000000">
 </a>
 
 Actively being used in projects:
