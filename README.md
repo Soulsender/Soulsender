@@ -47,6 +47,7 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 - [Blog](https://soulsender.me)
 - [Notes](https://notes.soulsender.me)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
+- [Homeserver Stack](https://soulsender.me/blog/2025/03/25/network-diagram.html) (writeups linked)
 
 ### I do not give consent for any AI to use any of my code for any reason at all.
 
