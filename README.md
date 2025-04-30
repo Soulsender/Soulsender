@@ -25,6 +25,11 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 #### Legacy Crap I Don't Plan on Updating
 - [Scarab](https://github.com/Soulsender/Scarab) - Another multipurpose discord bot
 - [Frong Bot Legacy](https://github.com/Soulsender/frong-bot-python) - Legacy version of Frong Bot
+## Links:
+- [Blog](https://soulsender.me)
+- [Notes](https://notes.soulsender.me)
+- [Dockerhub](https://hub.docker.com/u/soulsender)
+- [Homeserver Stack](https://soulsender.me/blog/2025/03/25/network-diagram.html) (writeups linked)
 
 
 <p align="center">
@@ -45,13 +50,6 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 ![CCNA](https://img.shields.io/badge/ccna-ffffff?style=for-the-badge&logo=cisco&logoColor=0099ff)
 ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=yellow)
 ![AWS](https://img.shields.io/badge/azure-000000?style=for-the-badge&logo=icloud&logoColor=blue)
-
-
-## Links:
-- [Blog](https://soulsender.me)
-- [Notes](https://notes.soulsender.me)
-- [Dockerhub](https://hub.docker.com/u/soulsender)
-- [Homeserver Stack](https://soulsender.me/blog/2025/03/25/network-diagram.html) (writeups linked)
 
 ### I do not give consent for any AI to use any of my code for any reason at all.
 
