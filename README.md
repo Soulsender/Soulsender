@@ -5,11 +5,8 @@
   
 ### **Who am I?**
 Hiya! My name is Soul, I’m a student, hacker, gamer, music producer, video editor, and cyberpunk enthusist :)
-
-I have a couple different certifcations, my most proud one being the CCNA.
-
+I have a couple different certifcations, my most proud one being the CCNA, but I'm also certified with Palo Alto and Fortinet firewalls, as well as CompTia Security Pro & PC PRO
 Turns out I know what I am doing *sometimes* :3
-
 Be sure to check out my github for projects I’ve done, or my blog on my [website](https://soulsender.me) for some more detailed writeups!
 
 <p align="center">
@@ -24,11 +21,12 @@ Be sure to check out my github for projects I’ve done, or my blog on my [websi
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CCNA](https://img.shields.io/badge/ccna-ffffff?style=for-the-badge&logo=cisco&logoColor=0099ff)
+![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=yellow)
+![AWS](https://img.shields.io/badge/azure-000000?style=for-the-badge&logo=icloud&logoColor=blue)
 
 ## Creator of:
 - [RustKey](https://github.com/Soulsender/rust-key) - General purpose rust encoding tool
