@@ -4,8 +4,10 @@
 student, hacker, gamer, video editor, 3d texturer and unity dev, and cyberpunk enthusist :)
   
 CCNA certified with Palo Alto and Fortinet firewalls, as well as CompTia Security Pro & PC PRO
+## >_ BLOG
 [<- BLOG HERE ->](https://soulsender.me) for some more detailed writeups!
-  
+
+## >_ PROJECTS
 #### Cool and Useful Things:
 - [Frong Bot](https://github.com/Soulsender/frong-bot) and the [legacy version](https://github.com/Soulsender/frong-bot-python) - Multipurpose rust and legacy python discord bot
 - [MC-Query](https://github.com/Soulsender/mc-query) - A selfhosted tool to report activity of a minecraft server (automatically updating player count)
@@ -23,7 +25,7 @@ CCNA certified with Palo Alto and Fortinet firewalls, as well as CompTia Securit
 - [Frong Bot Legacy](https://github.com/Soulsender/frong-bot-python) - Legacy version of Frong Bot
 - [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader) - A discord bot used as a frontend to encode and decode using Skeleton-Key
 - [Skeleton-Key](https://github.com/CosmodiumCS/MK15-SkeletonKey) - A python tool for encoding and decoding
-## Links:
+## >_ Links:
 - [Blog](https://soulsender.me)
 - [Notes](https://notes.soulsender.me)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
