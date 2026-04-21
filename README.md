@@ -25,11 +25,12 @@ CCNA certified with Palo Alto and Fortinet firewalls, as well as CompTia Securit
 - [Frong Bot Legacy](https://github.com/Soulsender/frong-bot-python) - Legacy version of Frong Bot
 - [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader) - A discord bot used as a frontend to encode and decode using Skeleton-Key
 - [Skeleton-Key](https://github.com/CosmodiumCS/MK15-SkeletonKey) - A python tool for encoding and decoding
-## >_ Links:
+## >_ LINKS:
 - [Blog](https://soulsender.me)
 - [Notes](https://notes.soulsender.me)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
 - [Homeserver Stack](https://soulsender.me/blog/2025/03/25/network-diagram.html) (writeups linked)
+- [CosmodiumCS](https://www.cosmodiumcs.com/)
 
 
 <p align="center">
