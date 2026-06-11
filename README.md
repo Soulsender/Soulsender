@@ -27,7 +27,7 @@ CCNA certified with Palo Alto and Fortinet firewalls, as well as CompTia Securit
 - [Skeleton-Key](https://github.com/CosmodiumCS/MK15-SkeletonKey) - A python tool for encoding and decoding
 ## >_ LINKS:
 - [Blog](https://soulsender.me)
-- [Notes](https://notes.soulsender.me)
+- [Notes](https://docs.snowsynth.net)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
 - [Homeserver Stack](https://soulsender.me/blog/2025/03/25/network-diagram.html) (writeups linked)
 - [CosmodiumCS](https://www.cosmodiumcs.com/)
