@@ -5,7 +5,7 @@ student, hacker, gamer, video editor, 3d texturer and unity dev, and cyberpunk e
   
 CCNA certified with Palo Alto and Fortinet firewalls, as well as CompTia Security Pro & PC PRO
 ## >_ NOTES
-[<- NOTES HERE ->](https://docs.snowsynth.net)
+[<- NOTES HERE ->](https://docs.jaspertech.pro)
 
 ## >_ PROJECTS
 #### Cool and Useful Things:
@@ -26,7 +26,7 @@ CCNA certified with Palo Alto and Fortinet firewalls, as well as CompTia Securit
 - [Earth Invader Bot](https://github.com/CosmodiumCS/MK19-Earth-Invader) - A discord bot used as a frontend to encode and decode using Skeleton-Key
 - [Skeleton-Key](https://github.com/CosmodiumCS/MK15-SkeletonKey) - A python tool for encoding and decoding
 ## >_ LINKS:
-- [Notes](https://docs.snowsynth.net)
+- [Notes](https://docs.jaspertech.pro)
 - [Dockerhub](https://hub.docker.com/u/soulsender)
 - [CosmodiumCS](https://www.cosmodiumcs.com/)
 
